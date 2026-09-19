@@ -18,3 +18,4 @@
 * [**Modular-MVP**](https://github.com/Amaan12/Modular-MVP) — MVP for Unity
 * [**yFullscreen**](https://github.com/Amaan12/yFullscreen) — Game View Fullscreen Utility
 * [**Cinematic-Look-LUT-Library**](https://github.com/Amaan12/Cinematic-Look-LUT-Library) — Cinematic color grading LUTs
+* [**Logging System**](https://github.com/Amaan12/LoggingSystem) — Better Logging for Unity
