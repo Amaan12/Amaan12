@@ -13,8 +13,8 @@
 
 ### Tools
 
-* [**EditorTools**](https://github.com/Amaan12/EditorTools) — Unity Editor productivity tools
-* [**Utilities**](https://github.com/Amaan12/Utilities) — Reusable Unity utilities
-* [**Modular-MVP**](https://github.com/Amaan12/Modular-MVP) — Modular architecture for Unity
-* [**yFullscreen**](https://github.com/Amaan12/yFullscreen) — Simple Unity fullscreen utility
+* [**EditorTools**](https://github.com/Amaan12/EditorTools) — Editor Tools that make life easier
+* [**Utilities**](https://github.com/Amaan12/Utilities) — Some helpful utilities
+* [**Modular-MVP**](https://github.com/Amaan12/Modular-MVP) — MVP for Unity
+* [**yFullscreen**](https://github.com/Amaan12/yFullscreen) — Game View Fullscreen Utility
 * [**Cinematic-Look-LUT-Library**](https://github.com/Amaan12/Cinematic-Look-LUT-Library) — Cinematic color grading LUTs
