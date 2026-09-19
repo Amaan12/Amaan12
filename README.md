@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Arial&size=28&duration=120&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=45&lines=Hi%2C+I'm+Amaan&repeat=false" />
+<img src="https://readme-typing-svg.demolab.com?font=Arial&size=36&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&height=55&lines=Hi%2C+I'm+Amaan&repeat=false" />
 
 ### `GAME DEVELOPER` · `UNITY`
 
