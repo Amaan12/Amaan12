@@ -66,4 +66,9 @@
   <a href="https://github.com/Amaan12/DeclutterAssets"><strong>DeclutterAssets</strong></a>
   — Clean up root folders in Assets/
 </p>
+<p>
+  <strong>10.</strong>
+  <a href="https://github.com/Amaan12/Unity-Improved-Timers"><strong>Improved Timers</strong></a>
+  — Git-amend's Improved Timers, with ReversableCountdownTimer, and CountupTimer
+</p>
 </div>
